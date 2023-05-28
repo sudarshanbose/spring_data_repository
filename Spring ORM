@@ -1,1 +1,2 @@
-
+As spring JDBC can not create table row using Java Object in the Database , thats why we need Spring ORM (Object Relational Mapping) 
+in order to do so.
