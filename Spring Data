@@ -1,0 +1,3 @@
+As in Spring ORM we need to write all the same configuration code for the database in all the classes (customer,product etc), 
+to avoid that we use Spring Data, which actually use the CRUD_Repository interface to use the CRUP operations like - insert,find,findAll,
+update,delete,remove...
